@@ -1,4 +1,4 @@
-# 🤖 Agente de Triagem Inteligente para Service Desk
+# Agente de Triagem Inteligente para Service Desk
 
 > Um sistema agêntico autônomo para orquestração de suporte e triagem de políticas internas, powered by Google Gemini 2.5 Flash & LangGraph.
 
